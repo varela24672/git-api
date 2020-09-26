@@ -1,3 +1,3 @@
 # git-api
 
-=> consulta gitlab-api
+=> consulta gitlab-api (gitlab.com/api/..)
